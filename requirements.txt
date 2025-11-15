@@ -1,9 +1,0 @@
-voila
-jupyterlab
-
-numpy
-ipywidgets
-ipython
-
-#pandas
-#bqplot
